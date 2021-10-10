@@ -1,0 +1,3 @@
+ngx-img-zoom' is not a known element:
+1. If 'ngx-img-zoom' is an Angular component, then verify that it is part of this module.
+2. If 'ngx-img-zoom' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.ng
